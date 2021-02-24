@@ -47,7 +47,7 @@ module.exports = {
     'core-js/stable',
     'regenerator-runtime/runtime',
     './src/index.jsx',
-    './favicon.png'
+    './favicon.png',
   ],
   output: {
     path: path.join(__dirname, 'dist'),
